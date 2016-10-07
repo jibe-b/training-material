@@ -1,7 +1,7 @@
 Galaxy Database Schema
 ======================
 
-### :grey_question: Questions
+*### :grey_question: Questions*
 
 - *Running a production Galaxy server, you some times end up in with a situation, where you manually need to interact with the Galaxy database: how do you do that*
 - *How to extract usage information, which can not be gathered using the given report tools*
